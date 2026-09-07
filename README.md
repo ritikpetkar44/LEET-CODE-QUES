@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ritikpetkar44/LEET-CODE-QUES/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/ritikpetkar44/LEET-CODE-QUES/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/ritikpetkar44/LEET-CODE-QUES/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ritikpetkar44/LEET-CODE-QUES/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ritikpetkar44/LEET-CODE-QUES/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -108,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ritikpetkar44/LEET-CODE-QUES/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/ritikpetkar44/LEET-CODE-QUES/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
